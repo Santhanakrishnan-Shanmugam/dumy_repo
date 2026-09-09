@@ -1,0 +1,6 @@
+{
+  "name": "test-keyword-plugin",
+  "description": "A sample plugin to test keyword search",
+  "version": "1.0.0",
+  "keywords": ["testing", "sample", "demo","vs_test"]
+}
